@@ -7,3 +7,4 @@ func Run() error {
 // handle the edge case from the last release
 // handle the edge case from the last release
 // clarify the control flow
+// drop an unused branch
